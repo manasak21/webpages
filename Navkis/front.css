@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  p {
+    margin-bottom: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #f1eeee;
+    border-radius: 5px;
+  }
+    header {
+    background-color:white;
+    color: #ac2679;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #ffffff;
+    text-align: right;
+  }
+  #hero {
+    background-image: url("https://navkisce.com/manage/images/aboutuploads/PxhIbS_college.png");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color:aliceblue;
+    padding: 100px 0;
+  }
+  
+
+  #tips {
+    background-color:rgb(160, 156, 156);
+    padding: 50px 0;
+  }
+  
+  
+  form input,
+  form textarea,
+  form button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  form button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+p{
+  font-weight: bold;
+  font-size: 35px;
+  font-family: cursive;
+}
+  h3{
+    font-size: 50px;
+  }
+  h1{
+    font-size: 80px;
+    font-family: cursive;
+  }
+  h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+  }
+  h6{
+    font-size: medium;
+  }
